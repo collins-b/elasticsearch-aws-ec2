@@ -28,4 +28,8 @@ How to run
 
 
 **NOTE:** Make sure you have `AWS access_key` and `AWS secret_key`
-    
+
+
+# NOTE
+
+I was run out of time(1.5 hours), so I couldn't implement a sound monitoring. I could use cloudwatch and SNS to monitor the ES cluster. Alerts could be done via email anytime the healthcheck of the ES fails.
