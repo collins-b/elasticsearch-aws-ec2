@@ -25,3 +25,7 @@ How to run
      - Index data in `sample.json` file, by running `node index.js`
 
      - Search can be done by running `node search_name.js`
+
+
+**NOTE:** Make sure you have `AWS access_key` and `AWS secret_key`
+    
