@@ -1,0 +1,26 @@
+{
+  "name": "aws-es",
+  "version": "1.0.0",
+  "description": "Provisioning ES on AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/collins-b/elasticsearch-aws-ec2.git"
+  },
+  "keywords": [
+    "ES",
+    "Elasticsearch",
+    "AWS",
+    "Nodejs",
+    "EC2"
+  ],
+  "author": "Delan Collins",
+  "license": "ISC",
+  "homepage": "https://github.com/collins-b/elasticsearch-aws-ec2/blob/master/README.md",
+  "dependencies": {
+    "elasticsearch": "^11.0.1"
+  }
+}
